@@ -1,0 +1,379 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    #banar {
+        padding: 100px 0px 100px 0px;
+        background: #fff;
+    }
+    .banar_image.text-right img {
+        width: 90%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+   
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+
+
+
+
+
+
+
+
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #header_area .header_menu ul li a {
+        font-size: 14px;
+    }
+    #header_area .header_menu ul li {
+        margin: 0px 0px;
+        margin-left: 15px;
+    }
+    #header_area .header_area_quote a {
+        padding: 10px 0px;
+        font-size: 12px;
+    }
+    #banar{
+        padding: 70px 0px;
+    }
+    #banar .banar_content h3 {
+        font-size: 31px;
+    }
+    #banar .banar_content h4 {
+        margin-top: 11px;
+        font-size: 20px;
+    }
+    #banar .banar_content p {
+        font-size: 14px;
+    }
+    #banar .banar_content a {
+        padding: 13px 40px;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    #about_us {
+        padding: 100px 0px;
+    }
+    .about_us_left {
+        margin-bottom: 24px;
+    }
+    #about_us .about_us_left h3 {
+        font-size: 22px;
+        width: 49%;
+        line-height: 31px;
+    }
+    .feater_2_right{
+        margin-top: 30px;
+    }
+    #faq_area .faq_area_title h3 {
+        font-size: 25px;
+        width: 48%;
+    }
+    #newslater .newslater_title h3 {
+        font-size: 21px;
+        width: 47%;
+        line-height: 30px;
+    }
+    .footer_link{
+        margin-top: 40px;
+    }
+    .footer_link_item{
+        margin-bottom: 20px;
+    }
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 767px) {
+    
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    body{
+        overflow-x: hidden !important;
+    }
+    .show_mobile{
+        display: block !important;
+    }
+    .hide_mobile{
+        display: none !important;
+    }
+    .banar_image.text-right img {
+        width: 82%;
+    }
+    .banar_image.text-right {
+        text-align: center !important;
+    }
+    #banar{
+        padding: 100px 0px;
+    }
+    .banar_bottom_item {
+        margin-bottom: 20px;
+    }
+    #about_us {
+        padding: 50px 18px;
+    }
+    #about_us .about_us_left h3 {
+        font-size: 21px;
+        width: 82%;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .about_us_right_item{
+        margin-bottom: 20px;
+    }
+    #services{
+        padding: 50px 0px;
+    }
+    #services .services_title h3 {
+        font-size: 19px;
+        margin-top: 8px;
+    }
+    #services .services_main .services_main_item {
+        text-align: center;
+    }
+    #services .services_main .services_main_item span {
+        margin: 0 auto;
+    }
+    #services .services_main .services_main_item p {
+        width: 65%;
+        margin: 0 auto;
+        margin-top: 8px;
+    }
+    #feater_2 {
+        padding: 0px 0px 50px 0px;
+    }
+    #feater_2 .feater_2_left h3 {
+        width: 90%;
+    }
+    #feater_2 .feater_2_left p {
+        font-size: 14px;
+        width: 100%;
+        line-height: 23px;
+        margin-top: 11px;
+    }
+    #feater_2 .feater_2_left ul li i {
+        margin-right: 8px;
+        margin-bottom: 30px;
+    }
+    #feater_2 .feater_2_left ul li {
+        font-size: 14px;
+    }
+    .feater_2_right {
+        margin-top: 40px;
+    }
+    #faq_area .faq_area_title h3 {
+        margin-top: 7px;
+        font-size: 19px;
+        width: 100%;
+    }
+    #faq_area .faq_area_main #accordion .faq_item .card-header a {
+        font-size: 13px;
+    }
+    #faq_area .faq_area_main {
+        margin-top: 25px;
+    }
+    #faq_area .faq_area_main #accordion .faq_item .card-body {
+        font-size: 12px;
+        width: 100%;
+        line-height: 21px;
+    }
+    #newslater {
+        padding: 50px 0px;
+    }
+    #newslater .newslater_title h3 {
+        font-size: 19px;
+        width: 100%;
+        line-height: 25px;
+    }
+    #footer {
+        padding: 50px 0px;
+    }
+    .footer_link{
+        margin-top: 40px;
+    }
+    .footer_link_item {
+        margin-bottom: 34px;
+    }
+
+
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    body{
+        overflow-x: hidden !important;
+    }
+    .show_mobile{
+        display: block !important;
+    }
+    .hide_mobile{
+        display: none !important;
+    }
+    #banar {
+        padding: 50px 0px;
+    }
+    .banar_content {
+        text-align: center;
+        margin-top: 30px;
+    }
+    #banar .banar_content h3 {
+        font-size: 28px;
+    }
+    #banar .banar_content h4 {
+        font-size: 20px;
+    }
+    #banar .banar_content p {
+        font-size: 14px;
+    }
+    .banar_bottom_item {
+        text-align: center;
+        margin-bottom: 32px;
+        padding: 0px 20px;
+    }
+    #about_us {
+        padding: 50px 18px;
+    }
+    #about_us .about_us_left h3 {
+        font-size: 21px;
+        width: 82%;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .about_us_right_item{
+        margin-bottom: 20px;
+    }
+    #services{
+        padding: 50px 0px;
+    }
+    #services .services_title h3 {
+        font-size: 19px;
+        margin-top: 8px;
+    }
+    #services .services_main .services_main_item {
+        text-align: center;
+    }
+    #services .services_main .services_main_item span {
+        margin: 0 auto;
+    }
+    #services .services_main .services_main_item p {
+        width: 85%;
+        margin: 0 auto;
+        margin-top: 8px;
+    }
+    #feater_2 {
+        padding: 0px 0px 50px 0px;
+    }
+    #feater_2 .feater_2_left h3 {
+        width: 90%;
+    }
+    #feater_2 .feater_2_left p {
+        font-size: 14px;
+        width: 100%;
+        line-height: 23px;
+        margin-top: 11px;
+    }
+    #feater_2 .feater_2_left ul li i {
+        margin-right: 8px;
+        margin-bottom: 52px;
+    }
+    #feater_2 .feater_2_left ul li {
+        font-size: 13px;
+    }
+    .feater_2_right {
+        margin-top: 40px;
+    }
+    #faq_area {
+        padding: 50px 0px;
+    }
+    #faq_area .faq_area_title h3 {
+        margin-top: 7px;
+        font-size: 19px;
+        width: 100%;
+    }
+    #faq_area .faq_area_main #accordion .faq_item .card-header a {
+        font-size: 13px;
+    }
+    #faq_area .faq_area_main {
+        margin-top: 25px;
+    }
+    #faq_area .faq_area_main #accordion .faq_item .card-body {
+        font-size: 12px;
+        width: 100%;
+        line-height: 21px;
+    }
+    #newslater {
+        padding: 50px 0px;
+    }
+    #newslater .newslater_title h3 {
+        font-size: 19px;
+        width: 100%;
+        line-height: 25px;
+    }
+    #footer {
+        padding: 50px 0px;
+    }
+    .footer_link{
+        margin-top: 40px;
+    }
+    .footer_link_item {
+        margin-bottom: 34px;
+    }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
